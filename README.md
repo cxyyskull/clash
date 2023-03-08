@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/Dreamacro/clash/actions">
-    <img src="https://img.shields.io/github/workflow/status/Dreamacro/clash/Go?style=flat-square" alt="Github Actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/Dreamacro/clash/release.yml?branch=master&style=flat-square" alt="Github Actions">
   </a>
   <a href="https://goreportcard.com/report/github.com/Dreamacro/clash">
     <img src="https://goreportcard.com/badge/github.com/Dreamacro/clash?style=flat-square">
@@ -36,9 +36,9 @@
 
 Premium core is proprietary. You can find their release notes and pre-built binaries [here](https://github.com/Dreamacro/clash/releases/tag/premium).
 
-- gvisor/system stack TUN device on macOS, Linux and Windows ([ref](https://github.com/Dreamacro/clash/wiki/premium-core-features#tun-device))
-- Policy routing with [Scripts](https://github.com/Dreamacro/clash/wiki/premium-core-features#script)
-- Load your rules with [Rule Providers](https://github.com/Dreamacro/clash/wiki/premium-core-features#rule-providers)
+- gvisor/system stack TUN device on macOS, Linux and Windows ([ref](https://github.com/Dreamacro/clash/wiki/Clash-Premium-Features#tun-device))
+- Policy routing with [Scripts](https://github.com/Dreamacro/clash/wiki/Clash-Premium-Features#script)
+- Load your rules with [Rule Providers](https://github.com/Dreamacro/clash/wiki/Clash-Premium-Features#rule-providers)
 - Monitor Clash usage with a built-in profiling engine. ([Dreamacro/clash-tracing](https://github.com/Dreamacro/clash-tracing))
 
 ## Getting Started
